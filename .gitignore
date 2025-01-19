@@ -1,0 +1,8 @@
+hw3_env/
+**/__pycache__/
+**/.DS_Store
+**/zip
+**.npy
+**.ipynb
+16-820_F24_HW3_release/
+**.npz
