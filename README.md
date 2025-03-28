@@ -1,23 +1,15 @@
-## HW3 - 3D Reconstruction
+# HW3 - 3D Reconstruction
 
-#### Instructions
+## Results
 
-Follow `hw3.pdf`.
+### Epipolar Matching
 
-Make sure to check the sections on `FAQ` and `Helpful Concepts` in the pdf.
+![Epipolar Lines](results/two%20view%20reconstruction/epipolar%20lines.png)
+![Epipolar Matching](results/two%20view%20reconstruction/epipolar%20matching.png)
 
-To install the required packages for the homework run:
+### 3D Reconstruction
 
-```
-pip install -r requirements.txt
-```
-
-The packages have been tested with python `3.10.12`
-
-#### HW3 - Submission checklist
-
-Submit your write-up and code to Gradescope.
-
-* **Writeup:** The write-up should be a pdf file named \<**AndrewId**\>_hw3.pdf
-* **Code:** The code should be submitted as a zip named \<**AndrewId**\>.zip 
-
+![Reconstructed View 1](results/two%20view%20reconstruction/reconstructed%20view%201.png)
+![Reconstructed View 2](results/two%20view%20reconstruction/reconstructed%20view%202.png)
+![Reconstructed View 3](results/two%20view%20reconstruction/reconstructed%20view%203.png)
+![Reconstructed View 4](results/two%20view%20reconstruction/reconstructed%20view%204.png)
