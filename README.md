@@ -1,4 +1,4 @@
-# HW3 - 3D Reconstruction
+# 3D Reconstruction
 
 ## Results
 
@@ -7,7 +7,7 @@
 ![Epipolar Lines](results/two%20view%20reconstruction/epipolar%20lines.png)
 ![Epipolar Matching](results/two%20view%20reconstruction/epipolar%20matching.png)
 
-### 3D Reconstruction
+### 3D Reconstruction Results
 
 ![Reconstructed View 1](results/two%20view%20reconstruction/reconstructed%20view%201.png)
 ![Reconstructed View 2](results/two%20view%20reconstruction/reconstructed%20view%202.png)
